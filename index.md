@@ -14,6 +14,6 @@ I'm Grey! I'm an undergrad in mechanical engineering + robotics at MIT. Currentl
 
 # publications
 
-Gripper-Aware Grasping: End-Effector Shape Context for Cross-Gripper Generalization
+[Gripper-Aware Grasping: End-Effector Shape Context for Cross-Gripper Generalization](https://alinasarmiento.github.io/gacgn/)
 
 [Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement](https://arxiv.org/abs/2307.04751)
