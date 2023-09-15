@@ -14,6 +14,12 @@ I'm Grey! I'm an undergrad in mechanical engineering + robotics at MIT. Currentl
 
 # publications
 
-[Gripper-Aware Grasping: End-Effector Shape Context for Cross-Gripper Generalization](https://alinasarmiento.github.io/gacgn/)
+**[Gripper-Aware Grasping: End-Effector Shape Context for Cross-Gripper Generalization](https://alinasarmiento.github.io/gacgn/)**</br>
+**Alina Sarmiento**, [Anthony Simeonov](https://anthonysimeonov.github.io/), [Pulkit Agrawal](https://people.csail.mit.edu/pulkitag/)</br>
+[project page](https://alinasarmiento.github.io/gacgn/) / paper and code TBR </br>
+_IROS 2023 Workshop on Integrated Perception, Planning, and Control for Physically and Contextually-Aware Robot Autonomy_
 
-[Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement](https://arxiv.org/abs/2307.04751)
+**[Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement](https://arxiv.org/abs/2307.04751)**</br>
+[Anthony Simeonov](https://anthonysimeonov.github.io/), [Ankit Goyal*](https://imankgoyal.github.io/), [Lucas Mauelli*](http://lucasmanuelli.com/), [Lin Yen-Chen](https://yenchenlin.me/), **Alina Sarmiento**, [Alberto Rodriguez](https://meche.mit.edu/people/faculty/ALBERTOR@MIT.EDU), [Pulkit Agrawal**](https://people.csail.mit.edu/pulkitag/), [Dieter Fox**](https://homes.cs.washington.edu/~fox/) (*equal contribution, **equal advising)</br>
+[project page](https://anthonysimeonov.github.io/rpdiff-multi-modal/) / [code](https://github.com/anthonysimeonov/rpdiff)</br>
+_CORL 2023_
