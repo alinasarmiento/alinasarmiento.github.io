@@ -16,9 +16,9 @@ Current questions: Can we take task/motion planning into account when generating
     
 Using: PyTorch, ROS, PointNet++ architecture, GraspNet architecture, CVAEs, Docker, PyBullet, RViz
 
-<img src='assets/hsa_screencap.jpg' alt='Screenshot of HSA' width='300'>
-
 # previously...
+
+<img src='assets/hsa_screencap.jpg' alt='Screenshot of HSA' width='300'>
 
 ### Computational Design of Soft Robotic Sensors ~ _Distributed Robotics Lab (MIT CSAIL)_
     
