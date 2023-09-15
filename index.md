@@ -11,3 +11,9 @@ I'm Grey! I'm an undergrad in mechanical engineering + robotics at MIT. Currentl
 #### 🚀&emsp; Just came back from LA: was with SpaceX's Dragon Team this summer as a structures and mechanisms intern
 
 #### 🔧&emsp; Thanks to ProjX funding, my friends and I are creating a life-sized WALL-E robot. Stay tuned...
+
+# publications
+
+Gripper-Aware Grasping: End-Effector Shape Context for Cross-Gripper Generalization
+
+[Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement](https://arxiv.org/abs/2307.04751)
