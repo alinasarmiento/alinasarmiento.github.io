@@ -4,7 +4,7 @@
 
 <img src='assets/logo.png' alt='headshot' width='300'/>
 
-I'm Grey! I'm an undergrad in mechanical engineering + robotics at MIT. Currently working on deep learning for robotic manipulation with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) and on bipedal robotic control policies with the [Biomimetic Robotics Lab](https://biomimetics.mit.edu/) at MIT CSAIL. [(read more about me)](https://alinasarmiento.github.io/about_me.html)
+I'm Grey! I'm an undergrad in mechanical engineering + robotics at MIT. Currently working on deep learning for robotic manipulation with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) at MIT CSAIL and on bipedal robotic control policies with the [Biomimetic Robotics Lab](https://biomimetics.mit.edu/) with the MIT MechE department. [(read more about me)](https://alinasarmiento.github.io/about_me.html)
 
 # the latest
 
