@@ -4,10 +4,10 @@
 
 <img src='assets/logo.png' alt='headshot' width='300'/>
 
-I'm Grey! I'm an undergrad in mechanical engineering + robotics at MIT. Currently working on deep learning for robotic manipulation with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) and on sensorizing soft robots with the [Distributed Robotics Lab](https://www.csail.mit.edu/research/distributed-robotics-laboratory) at MIT CSAIL. [(read more about me)](https://alinasarmiento.github.io/about_me.html)
+I'm Grey! I'm an undergrad in mechanical engineering + robotics at MIT. Currently working on deep learning for robotic manipulation with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) and on bipedal robotic control policies with the [Biomimetic Robotics Lab](https://biomimetics.mit.edu/) at MIT CSAIL. [(read more about me)](https://alinasarmiento.github.io/about_me.html)
 
 # the latest
 
-#### 🚀&emsp; Joining SpaceX's Dragon Team this summer as a flight mechanism intern
+#### 🚀&emsp; Just came back from LA: was with SpaceX's Dragon Team this summer as a structures and mechanisms intern
 
 #### 🔧&emsp; Thanks to ProjX funding, my friends and I are creating a life-sized WALL-E robot. Stay tuned...
