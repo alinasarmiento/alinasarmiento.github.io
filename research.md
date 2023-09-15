@@ -1,9 +1,14 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # currently...
+
+### Using Arms for Humanoid Robot Balance Recovery ~ _Biomimetic Robotics Lab (MIT MechE)_
+
+I'm working with Charles Khazoom to explore control policies on the lab's humanoid robot. Using both classic trajectory optimization and MPC, how do control policies using arms affect balance recovery for standing and walking?
+
 ![Illustration of robot demo](/assets/clutter_demo.png)
 
-### Task-Informed Robotic Manipulation ~ _Improbable AI Group (MIT CSAIL)_
+### Gripper-Aware Robotic Manipulation ~ _Improbable AI Group (MIT CSAIL)_
     
 I'm collaborating with Anthony Simeonov to explore robotic manipulation of novel, cluttered objects conditioned on manipulation task. In the way that you wouldn't grab a mug by its rim if you wanted to flip it upside down, we want to generate grasps that depend on what the robot intends to do with an object.
     
@@ -13,13 +18,13 @@ Using: PyTorch, ROS, PointNet++ architecture, GraspNet architecture, CVAEs, Dock
 
 <img src='assets/hsa_screencap.jpg' alt='Screenshot of HSA' width='300'>
 
+# previously...
+
 ### Computational Design of Soft Robotic Sensors ~ _Distributed Robotics Lab (MIT CSAIL)_
     
 I'm working with Lilly Chin to create computational design tools and pipelines for fluidic and tactile sensor prototyping. We're focusing on adding sensor capability to her work on handed shearing auxetics (HSAs), as well as iterating on the team's tactile sensors for soft robotic grasping.
 
 Using: Grasshopper, Rhino, Rhinoscript, Carbon3D printer, basic electronics
-
-# previously...
 
 ### Venous Materials ~ _Tangible Media Group (MIT Media Lab)_
     
