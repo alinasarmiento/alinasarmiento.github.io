@@ -8,7 +8,9 @@ I'm Grey! I'm an undergrad in mechanical engineering + robotics at MIT. Currentl
 
 # the latest
 
-#### 🚀&emsp; Just came back from LA: interned with SpaceX's Dragon Team this summer working on structures and mechanisms
+#### 📓&emsp; Presenting at the [IPPC Workshop for IROS 2023](https://ippc-iros23.github.io/)!
+
+#### 🚀&emsp; Back from LA: interned with SpaceX's Dragon Team this summer working on structures and mechanisms
 
 #### 🔧&emsp; Thanks to ProjX funding, my friends and I are creating a life-sized WALL-E robot. Stay tuned...
 
