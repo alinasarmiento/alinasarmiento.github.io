@@ -22,7 +22,7 @@ Using: PyTorch, ROS, PointNet++ architecture, GraspNet architecture, CVAEs, Dock
 
 ### Computational Design of Soft Robotic Sensors ~ _Distributed Robotics Lab (MIT CSAIL)_
     
-I'm working with Lilly Chin to create computational design tools and pipelines for fluidic and tactile sensor prototyping. We're focusing on adding sensor capability to her work on handed shearing auxetics (HSAs), as well as iterating on the team's tactile sensors for soft robotic grasping.
+I'm working with Lilly Chin to create computational design tools and pipelines for pressure based and tactile sensor prototyping. We're focusing on adding sensor capability to her work on handed shearing auxetics (HSAs), as well as iterating on the team's tactile sensors for soft robotic grasping.
 
 Using: Grasshopper, Rhino, Rhinoscript, Carbon3D printer, basic electronics
 
