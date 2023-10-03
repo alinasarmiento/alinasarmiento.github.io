@@ -18,7 +18,7 @@ I'm Grey! I'm an undergrad in mechanical engineering + robotics at MIT. Currentl
 
 **[Gripper-Aware Grasping: End-Effector Shape Context for Cross-Gripper Generalization](https://alinasarmiento.github.io/gacgn/)**<br>
 **Alina Sarmiento**, [Anthony Simeonov](https://anthonysimeonov.github.io/), [Pulkit Agrawal](https://people.csail.mit.edu/pulkitag/)<br>
-[project page](https://alinasarmiento.github.io/gacgn/) / paper and code TBR <br>
+[paper](https://ippc-iros23.github.io/papers/sarmiento.pdf) / [project page (in construction)](https://alinasarmiento.github.io/gacgn/) / code TBR <br>
 _IROS 2023 Workshop on Integrated Perception, Planning, and Control for Physically and Contextually-Aware Robot Autonomy_
 
 **[Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement](https://arxiv.org/abs/2307.04751)**<br>
