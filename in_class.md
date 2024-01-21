@@ -1,11 +1,22 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # projects
+### 2.009 Product Design
+2.009 is MIT MechE's capstone undergraduate course. In teams of 16, students identify a need or problem, conduct user research, and design, develop, test, and present a working prototype of the product in a final presentation at the end of fall semester.
+
+For the class of 2024, Red Team presents OnTrack, an parallelized autonomous robotic solution to railroad track cleaning and management. Fall foliage buildup on train tracks in the northeast can compact into a slippery rust precipitate which poses hazards to train wheel traction and electric connectivity. OnTrack can live at remote stations where centralized cleaning routines are less frequent, and can be deployed within minutes by a few people for targeted, efficient cleaning of the railhead.
+
+[Checkout our final presentation here!](https://2009.mit.edu/project/final-presentation/all-prototypes#red-team-ontrack)
+
+<img src='/assets/projects/ontrack/ontrack2.jpg' alt='OnTrack being deployed on stage' width='600'>
+
+<img src='/assets/projects/ontrack/ontrack3.jpg' alt='OnTrack scrubs on the rail' width='600'>
+
 ### 2.671 Measurement and Instrumentation
 I made a bunch of people lift pringle cans and characterized their motor responses as affected by memory and cognition.
 
 Final project poster:
-<iframe style="width=400; height=200;" src="/assets/T_22_Sarmiento_GripFroce.pdf"></iframe>
+<iframe style="width=4000; height=2000;" src="/assets/T_22_Sarmiento_GripFroce.pdf"></iframe>
 
 Paper imminent! Stay tuned...
 
