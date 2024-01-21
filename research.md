@@ -8,6 +8,8 @@ The current MPC controllers used on BRL's humanoid robot rely on a gait schedule
 
 Working with Charles Khazoom, I am currently exploring contact-implicit methods of doing this, starting with a complementarity constraint relaxation on contact using SQP.
 
+Using: MATLAB + CasADi, C++
+
 ![Illustration of robot demo](/assets/clutter_demo.png)
 
 ### Gripper-Aware Robotic Manipulation ~ _Improbable AI Group (MIT CSAIL)_
