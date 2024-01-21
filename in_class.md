@@ -16,7 +16,7 @@ For the class of 2024, Red Team presents OnTrack, an parallelized autonomous rob
 I made a bunch of people lift pringle cans and characterized their motor responses as affected by memory and cognition.
 
 Final project poster:
-<iframe src="/assets/T_22_Sarmiento_GripFroce.pdf" width='700'></iframe>
+<iframe src="/assets/T_22_Sarmiento_GripFroce.pdf" width='700' height='100%'></iframe>
 
 Paper imminent! Stay tuned...
 
