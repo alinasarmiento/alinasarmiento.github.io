@@ -2,9 +2,11 @@
 
 # currently...
 
-### Using Arms for Humanoid Robot Balance Recovery ~ _Biomimetic Robotics Lab (MIT MechE)_
+### Contact-Implicit Balance Recovery for Humanoid Robot ~ _Biomimetic Robotics Lab (MIT MechE)_
 
-I'm working with Charles Khazoom to explore control policies on the lab's humanoid robot. Using both classic trajectory optimization and MPC, how do control policies using arms affect balance recovery for standing and walking?
+The current MPC controllers used on BRL's humanoid robot rely on a gait schedule to plan contact for walking, which can be brittle to tripping and certain other disturbances that would require breaking the left-right step pattern or require taking faster/slower steps that are unevenly timed. Our goal is to allow the robot to choose when to make and break contact with the ground as well as other elements of the environment (ex. a nearby wall) - this could possibly offer the option of taking a step forward or backward when disturbed from standing, or reaching out to catch itself on the ground or on a wall and help itself back upright.
+
+Working with Charles Khazoom, I am currently exploring contact-implicit methods of doing this, starting with a complementarity constraint relaxation on contact using SQP.
 
 ![Illustration of robot demo](/assets/clutter_demo.png)
 
