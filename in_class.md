@@ -4,7 +4,7 @@
 ### 2.009 Product Design
 2.009 is MIT MechE's capstone undergraduate course. In teams of 16, students identify a need or problem, conduct user research, and design, develop, test, and present a working prototype of the product in a final presentation at the end of fall semester.
 
-For the class of 2024, Red Team presents OnTrack, an parallelized autonomous robotic solution to railroad track cleaning and management. Fall foliage buildup on train tracks in the northeast can compact into a slippery rust precipitate which poses hazards to train wheel traction and electric connectivity. OnTrack can live at remote stations where centralized cleaning routines are less frequent, and can be deployed within minutes by a few people for targeted, efficient cleaning of the railhead.
+For the class of 2024, Red Team presents OnTrack, a parallelized autonomous robotic solution to railroad track cleaning and management. Fall foliage buildup on train tracks in the northeast can compact into a slippery rust precipitate which poses hazards to train wheel traction and electric connectivity. OnTrack can live at remote stations where centralized cleaning routines are less frequent, and can be deployed within minutes by a few people for targeted, efficient cleaning of the railhead.
 
 [Checkout our final presentation here!](https://2009.mit.edu/project/final-presentation/all-prototypes#red-team-ontrack)
 
@@ -18,7 +18,7 @@ I made a bunch of people lift pringle cans and characterized their motor respons
 Final project poster:
 <iframe src="/assets/T_22_Sarmiento_GripFroce.pdf" width='700' height='550'></iframe>
 
-Paper imminent! Stay tuned...
+[Read the final project report.](https://drive.google.com/file/d/1yNYtsUCtXnwEX4PA66njGJ7LnH74HUpM/view?usp=sharing)
 
 ### 6.843/4212 Robotic Manipulation
 "One Trip" - Full-arm, bimanual manipulation using geometric grasping methods
