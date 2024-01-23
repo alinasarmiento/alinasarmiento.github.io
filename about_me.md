@@ -6,7 +6,7 @@ I am a senior at MIT (class of 2024) studying Mechanical Engineering with a focu
 
 I believe that a necessary part of bringing robots to the real world is designing for **robust form** (mechanics, materials, morphology) and **robust function** (control and planning under uncertainty). My goal is to help robots build a dynamic understanding of 1) their own body, 2) their environment, and 3) the ways they are uncertain about both these things, especially as it relates to manipulation tasks.
 
-[^1]: in MIT-speak, i'm Course 2-A/LMPS (similar to 2-A/6), 18 minor, concentration in 21G (Japanese). phew!
+[^1]: in MIT-speak, i'm Course 2-A/6+LMPS, 18 minor, concentration in 21G (Japanese). phew!
 
 ## engineering/research interests
 - relationship between robot morphology and task/motion affordances
@@ -18,9 +18,10 @@ I believe that a necessary part of bringing robots to the real world is designin
 
 ## other passions
 - education accessibility / access to STEM
-- housing and healthcare equity
+- public access to research, the open source movement
+- housing and healthcare equity + the politics of displacement
 - environmental justice and sustainability
-- queer studies ([see my current reading list](https://bpl.bibliocommons.com/list/share/1900259209_alinasarmiento/1900265989_queer_literature))
+- queer and intersectional studies ([see my current reading list](https://bpl.bibliocommons.com/list/share/1900259209_alinasarmiento/1900265989_queer_literature))
 
 I currently live in Cambridge, Massachusetts but I come from Newark, California in the SF Bay Area. I'm okay with any pronouns, but tend to go by they/them. I am a serial sock mismatcher.
 
