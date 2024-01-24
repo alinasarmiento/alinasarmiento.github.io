@@ -4,7 +4,7 @@
 
 I am a senior at MIT (class of 2024) studying Mechanical Engineering with a focus in Learning Machines and Physical Systems. I'm also minoring in math.[^1] Currently an undergrad researcher (UROP) under Sangbae Kim with the [Biomimetic Robotics Lab](https://biomimetics.mit.edu/) in the MIT MechE department and under Pulkit Agrawal with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) at MIT CSAIL.
 
-I believe that a necessary part of bringing robots to the real world is designing for **robust form** (mechanics, materials, morphology) and **robust function** (control and planning under uncertainty). My goal is to help robots build a dynamic understanding of 1) their own body, 2) their environment, and 3) the ways they are uncertain about both these things, especially as it relates to manipulation tasks.
+My main interests are in **autonomous robotic manipulation**: I think a necessary part of bringing robots to the real world is designing for **robust form** (mechanics, materials, morphology) and **robust function** (control and planning under uncertainty). My goal is to help robots build a dynamic understanding of 1) their own body, 2) their environment, and 3) the ways they are uncertain about both these things, especially as it relates to manipulation tasks.
 
 [^1]: in MIT-speak, i'm Course 2-A/6+LMPS, 18 minor, concentration in 21G (Japanese). phew!
 
