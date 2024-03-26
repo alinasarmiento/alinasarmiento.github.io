@@ -4,15 +4,18 @@
 
 I am a senior at MIT (class of 2024) studying Mechanical Engineering with a focus in Learning Machines and Physical Systems. I'm also minoring in math.[^1] Currently an undergrad researcher (UROP) under Sangbae Kim with the [Biomimetic Robotics Lab](https://biomimetics.mit.edu/) in the MIT MechE department.
 
-My main interests are in **autonomous robotic manipulation**: I think a necessary part of bringing robots to the real world is designing for **robust form** (mechanics, materials, morphology) and **robust function** (control and planning under uncertainty). My goal is to help robots build a dynamic understanding of 1) their own body, 2) their environment, and 3) the ways they are uncertain about both these things, especially as it relates to manipulation tasks.
+My main interests are in **intelligent robotic manipulation**: I think a necessary part of bringing robots to the real world is allowing them to interact with their environment in interesting and dynamic ways, even if they are uncertain or uninformed about their surroundings (or about themselves!).
+
+Specifically, I want to enable robots to **plan through complex contact** (non-prehensile and whole-body contact, dynamic uses of friction, exploitation of object deformation, tool use, etc) in **unmodeled and cluttered scenes**, in a way that is robust and deployable across robot hardware.
 
 [^1]: in MIT-speak, i'm Course 2-A/6+LMPS, 18 minor, concentration in 21G (Japanese). phew!
 
 ## engineering/research interests
 - relationship between robot morphology and task/motion affordances
-- contact-rich and whole-body robotic manipulation
+- contact-rich, non-prehensile, and whole-body robotic manipulation
 - planning under uncertainty and robust perception
 - contact dynamics-informed learning and control
+- data efficient learning
 - mechanics of contact, mechanics of the continua, and mechanical fatigue
 - **applications:** ecological surveying and intervention, assistive home, unstructured warehouse work, emergency response
 
