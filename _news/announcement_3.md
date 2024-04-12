@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Starting my PhD this fall at UPenn's [GRASP Lab](https://www.grasp.upenn.edu/) in [Michael Posa's group](https://dair.seas.upenn.edu/)! :high_brightness:
