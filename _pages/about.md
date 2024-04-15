@@ -22,6 +22,4 @@ social: true # includes social icons at the bottom of the page
 
 I'm Grey! I'm a senior at MIT in mechanical engineering + robotics. Currently working on deep learning for robotic manipulation with the [Improbable AI Lab](https://people.csail.mit.edu/pulkitag/) at MIT CSAIL and on bipedal robotic control policies with the [Biomimetic Robotics Lab](https://biomimetics.mit.edu/) in the MIT MechE department.
 
-My main academic interests are in intelligent robotic manipulation and environment use under uncertainty. Other than that, I do art and illustration, am involved in the music and [acapella](http://resonance.mit.edu/?p=home) scene, and have passions in education and research accessibility.
-
-I currently live in Cambridge, Massachusetts but I come from Newark, California in the SF Bay Area. I'm okay with any pronouns, but tend to go by they/them. I am a serial sock mismatcher.
+My main academic interests are in intelligent robotic manipulation and environment use under uncertainty. Other than that, I do art, comics, and music, and have passions in education and research accessibility.
