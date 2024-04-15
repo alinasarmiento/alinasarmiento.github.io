@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: Undergrad '24 @ MIT. Learning about robots who learn.
 
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-(oops, this page is currently under reconstruction. check back in a few days?)
+**(oops, this page is currently under reconstruction. check back in a few days?)**
 
 [Hello there!](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
 
