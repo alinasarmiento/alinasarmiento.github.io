@@ -17,7 +17,7 @@ Specifically, I want to enable robots to **plan through complex contact** (non-p
 
 **Outside of school,** I dabble in various art forms (talk to me about painting, comics, mending, and puppetry!). At MIT I am involved in the music and [acapella](http://resonance.mit.edu/?p=home) scene.
 
-After undergrad, I'll be starting my PhD at UPenn's GRASP Lab advised by Michael Posa. I'm lucky to be supported by the NSF Graduate Research Fellowship.
+After undergrad, I'll be starting my PhD at [UPenn's GRASP Lab](https://www.grasp.upenn.edu/) advised by [Michael Posa](https://dair.seas.upenn.edu/). I'm lucky to be supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
 ## engineering/research interests
 - relationship between robot morphology and task/motion affordances
