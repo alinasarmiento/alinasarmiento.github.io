@@ -8,6 +8,15 @@ category: art
 related_publications: true
 ---
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/zine3-400x400.jpg" title="Carried zine cover" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/zine2-400x400.jpg" title="Carried open spread" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 Back in 2021 I made a zine! Inspired by the experiences of my family and others in my community, _Carried_ is a short collection of four illustrated poems about immigration, inter-generational trauma, and Asian American identity. Carried specifically explores the mother-child bond, what it means to leave a place, and the things that we carry with us.
 - free to read at [this Google Drive link](https://drive.google.com/file/d/1kc7Rl-Wvum2NmUWpOeS2Mu0YUer4Sq_d/view)
 - physical copies are sold at [my Gumroad](https://indoorelephant.gumroad.com/l/carried) 
