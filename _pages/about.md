@@ -2,7 +2,6 @@
 layout: about
 title: home
 permalink: /
-subtitle: Undergrad '24 @ MIT. Learning about robots who learn.
 
 profile:
   align: right
