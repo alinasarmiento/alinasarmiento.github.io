@@ -15,10 +15,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**(oops, this page is currently under reconstruction. check back in a few days?)**
-
 [Hello there!](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
 
 I am a senior at MIT studying mechanical engineering + robotics. Currently working on deep learning for robotic manipulation with the [Improbable AI Lab](https://people.csail.mit.edu/pulkitag/) at MIT CSAIL and on bipedal robotic control policies with the [Biomimetic Robotics Lab](https://biomimetics.mit.edu/) in the MIT MechE department.
 
 My main academic interests are in intelligent robotic manipulation and environment use under uncertainty. Other than that, I do art, comics, and music, and have passions in education and research accessibility. ([read more about me](https://alinasarmiento.github.io/about/))
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=3-k-F_kAAAAJ)  /  [LinkedIn](https://www.linkedin.com/in/alina-sarmiento/)  /  [GitHub](https://github.com/alinasarmiento)  /  [Twitter](https://twitter.com/greysarmi)
