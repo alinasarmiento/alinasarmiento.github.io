@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 [Hello there!](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
 
-I'm Grey! I'm a senior at MIT in mechanical engineering + robotics. Currently working on deep learning for robotic manipulation with the [Improbable AI Lab](https://people.csail.mit.edu/pulkitag/) at MIT CSAIL and on bipedal robotic control policies with the [Biomimetic Robotics Lab](https://biomimetics.mit.edu/) in the MIT MechE department.
+I am a senior at MIT studying mechanical engineering + robotics. Currently working on deep learning for robotic manipulation with the [Improbable AI Lab](https://people.csail.mit.edu/pulkitag/) at MIT CSAIL and on bipedal robotic control policies with the [Biomimetic Robotics Lab](https://biomimetics.mit.edu/) in the MIT MechE department.
 
 My main academic interests are in intelligent robotic manipulation and environment use under uncertainty. Other than that, I do art, comics, and music, and have passions in education and research accessibility. ([read more about me](https://alinasarmiento.github.io/about/))
