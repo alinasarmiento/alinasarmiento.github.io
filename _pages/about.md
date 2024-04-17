@@ -20,6 +20,6 @@ I am a senior at MIT studying mechanical engineering + robotics. Currently worki
 
 My main academic interests are in intelligent robotic manipulation and environment use under uncertainty. Other than that, I do art, comics, and music, and have passions in education and research accessibility.
 
-If your carrier pigeon is on holiday, I can be found by email at <span style="color: var(--global-text-color); font-family: monospace; font-size: 1em;">alinasar [at] mit [dot] edu</span>. Come say hi!
+If your carrier pigeon is on holiday, I can be found by email at <span style="color: var(--global-text-color); font-family: monospace; font-size: 1em;"> alinasar[at]mit[dot]edu .</span> Come say hi!
 
 [CV](https://drive.google.com/file/d/1EudPE4kUueknEAi1yJrfJhub2iIMgJsQ/view?usp=sharing)  /  [Google Scholar](https://scholar.google.com/citations?hl=en&user=3-k-F_kAAAAJ)  /  [LinkedIn](https://www.linkedin.com/in/alina-sarmiento/)  /  [GitHub](https://github.com/alinasarmiento)  /  [Twitter](https://twitter.com/greysarmi)
