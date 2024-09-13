@@ -13,7 +13,7 @@ My main interests are in **intelligent robotic manipulation**: I think a necessa
 
 Specifically, I want to enable robots to **plan through complex contact** (non-prehensile and whole-body contact, dynamic uses of friction, exploitation of object deformation, tool use, etc) in **unmodeled and cluttered scenes**, in a way that is robust and deployable across robot hardware.
 
-I was MIT class of 2024 studying Mechanical Engineering with a focus in Learning Machines and Physical Systems, and a minor in math.[^1] There, I did work in deep learning for robotic manipulation, soft robotic sensing, and whole body robotic control with contact.
+I was MIT class of 2024 studying Mechanical Engineering with a focus in Learning Machines and Physical Systems, and a minor in math.[^1] There, I did work on deep learning for robotic manipulation with the [Improbable AI Lab](https://people.csail.mit.edu/pulkitag/) and soft robotic sensing with the [Distributed Robotics Lab](https://danielarus.csail.mit.edu/) at MIT CSAIL, and bipedal robotic control policies with the [Biomimetic Robotics Lab](https://biomimetics.mit.edu/) in the MIT MechE department.
 
 [^1]: in MIT-speak that was Course 2-A/6+LMPS, 18 minor, concentration in 21G (Japanese). phew!
 
