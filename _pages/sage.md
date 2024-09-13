@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /404.html
+permalink: /sage.html
 title: "Ask MIT why!"
 description: "MIT SAGE"
 redirect: false
