@@ -26,12 +26,13 @@ I was MIT class of 2024 studying Mechanical Engineering with a focus in Learning
 - contact dynamics-informed learning and control
 - data efficient learning
 - mechanics of contact, mechanics of the continua, and mechanical fatigue
-- **applications:** ecological surveying and intervention, assistive home, unstructured warehouse work, emergency response
+- **applications:** ecological surveying and intervention, assistive home, unstructured warehouse work
 
 ## other passions
 - education accessibility / access to STEM
 - public access to research, the open source movement
 - housing and healthcare equity + the politics of displacement (both local and international)
+- global liberation / anti-colonial theory
 - environmental justice and sustainability
 - queer and intersectional studies ([see my current reading list](https://bpl.bibliocommons.com/list/share/1900259209_alinasarmiento/1900265989_queer_literature))
 
