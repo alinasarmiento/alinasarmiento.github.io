@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 
 [Hello there!](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
 
-I am a first year PhD student at the University of Pennsylvania studying robotics and control in the [DAIR Lab](https://dair.seas.upenn.edu/) advised by Michael Posa. My main academic interests are in intelligent robotic manipulation and environment use under uncertainty. Other than that, I do art, comics, and music, and have passions in education and research accessibility. 
+I am a second year PhD student at the University of Pennsylvania studying robotics and control in the [DAIR Lab](https://dair.seas.upenn.edu/) advised by Michael Posa. My main academic interests are in intelligent robotic manipulation and environment use under uncertainty. Other than that, I do art, comics, and music, and have passions in education and research accessibility. 
 
 Before this, I did my undergraduate at MIT studying mechanical engineering and robotics with a minor in math.
 
