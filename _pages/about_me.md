@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-I'm a first year PhD student in Mechanical Engineering at [UPenn's GRASP Lab](https://www.grasp.upenn.edu/) advised by [Michael Posa](https://dair.seas.upenn.edu/). I'm lucky to be supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
+I'm a second year PhD candidate in Mechanical Engineering at [UPenn's GRASP Lab](https://www.grasp.upenn.edu/) advised by [Michael Posa](https://dair.seas.upenn.edu/). I'm lucky to be supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
 My main interests are in **intelligent robotic manipulation**: I think a necessary part of bringing robots to the real world is allowing them to interact with their environment in interesting and dynamic ways, even if they are uncertain or uninformed about their surroundings (or about themselves!).
 
